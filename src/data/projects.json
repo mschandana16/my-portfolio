@@ -46,13 +46,5 @@
     "skills": ["React", "Vite", "CSS", "Animations library"],
     "demo": "https://github.com/mschandana16/ai-image-generatorr",
     "source": "https://github.com/mschandana16/ai-image-generatorr"
-  },
-  {
-    "title": "English to Kannada translator",
-    "imageSrc": "projects/project.png",
-    "description": "An AI agent that takes English text and translates it to the Kannada language. Built using illa.ai ",
-    "skills": ["React", "Vite", "CSS", "Animations library"],
-    "demo": "https://illa.ai/ai-agent/ILAfx4p1C7uJ/detail",
-    "source": "https://illa.ai/ai-agent/ILAfx4p1C7uJ/detail"
   }
 ]

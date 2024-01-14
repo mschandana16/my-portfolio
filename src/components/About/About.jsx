@@ -57,7 +57,9 @@ export const About = () => {
               </h3>
               <p>
                 I'm presently engaged in research related to edge computing at
-                my uni. Explring the world of AI, by tackling little projects.
+                my uni. Exploring the world of AI, by tackling little projects.
+                I'm also a huge fan of open source and have contributed to a few
+                repos.
               </p>
             </div>
           </li>

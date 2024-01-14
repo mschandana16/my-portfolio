@@ -1,0 +1,82 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "C/C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Go",
+    "imageSrc": "skills/go.png"
+  },
+
+  {
+    "title": "Astro",
+    "imageSrc": "skills/astro.png"
+  },
+  {
+    "title": "React.js",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "skills/express.png"
+  },
+
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "OpenCV",
+    "imageSrc": "skills/opencvimg.png"
+  },
+
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Illa cloud",
+    "imageSrc": "skills/illa.png"
+  },
+  {
+    "title": "GIT/Github",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Google Cloud Platform",
+    "imageSrc": "skills/gcp.png"
+  },
+  {
+    "title": "Google Colab",
+    "imageSrc": "skills/colab.png"
+  },
+  {
+    "title": "Canva",
+    "imageSrc": "skills/canva.png"
+  }
+]

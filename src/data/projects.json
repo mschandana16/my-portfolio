@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Bookmarker for YouTube Videos",
+    "imageSrc": "projects/project.png",
+    "description": "A Chrome extension to bookmark the timestamps of your YouTube videos.",
+    "skills": ["React", "Javascript", "Chrome Ectension API", "CSS"],
+    "demo": "https://github.com/mschandana16/bookmarker-for-yt",
+    "source": "https://github.com/mschandana16/bookmarker-for-yt"
+  },
+  {
+    "title": "Ethos - a MERN blog website",
+    "imageSrc": "projects/project.png",
+    "description": "A MERN based blog website made as a submission to Web Tech course at my university.",
+    "skills": ["MongoDB", "Express", "Node", "React", "Tailwind CSS"],
+    "demo": "https://github.com/mschandana16/ethos-the-blog",
+    "source": "https://github.com/mschandana16/ethos-the-blog"
+  },
+  {
+    "title": "AI Image Generator",
+    "imageSrc": "projects/project.png",
+    "description": "A basic AI image generator made by leveraging OpenAI's API",
+    "skills": ["React", "CSS", "OpenAI API", "API integration"],
+    "demo": "https://github.com/mschandana16/ai-image-generatorr",
+    "source": "https://github.com/mschandana16/ai-image-generatorr"
+  },
+  {
+    "title": "Spell Checker",
+    "imageSrc": "projects/project.png",
+    "description": "A DSA project written in C, which validates the spellings of the word/sentence input and allows user to add a new word to the database. Implemented using trie as the principle DS. ",
+    "skills": ["C", "DSA"],
+    "demo": "https://github.com/mschandana16/spell-checker-dsa",
+    "source": "https://github.com/mschandana16/spell-checker-dsa"
+  },
+  {
+    "title": "Text-based adventure game",
+    "imageSrc": "projects/project.png",
+    "description": "A game built in python which simulates an escape room adventure.",
+    "skills": ["Python", "Tkinter library"],
+    "demo": "https://github.com/mschandana16/python-project",
+    "source": "https://github.com/mschandana16/python-project"
+  },
+  {
+    "title": "My portfolio website",
+    "imageSrc": "projects/project.png",
+    "description": "This very website!",
+    "skills": ["React", "Vite", "CSS", "Animations library"],
+    "demo": "https://github.com/mschandana16/ai-image-generatorr",
+    "source": "https://github.com/mschandana16/ai-image-generatorr"
+  }
+]

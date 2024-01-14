@@ -1,0 +1,26 @@
+[
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "OpenCV",
+    "imageSrc": "skills/opencv.png"
+  },
+  {
+    "title": "Google Cloud Platform",
+    "imageSrc": "skills/gcp.png"
+  },
+  {
+    "title": "GIT/Github",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Illa cloud",
+    "imageSrc": "skills/illa.png"
+  }
+]

@@ -1,0 +1,14 @@
+:root {
+  /* Colours */
+  --color-text: #fff;
+  --color-primary: #1e1e1e;
+  --color-secondary: #19376db3;
+  --color-dark: #1e1e1e;
+  --color-bg: #000000;
+
+  /* Fonts */
+  /* font-family: "Open Sans", sans-serif;*/
+  /* font-family: "Bebas Neue", sans-serif;
+  font-family: "Noto Sans Tirhuta", sans-serif;
+  font-family: "Open Sans", sans-serif; */
+}

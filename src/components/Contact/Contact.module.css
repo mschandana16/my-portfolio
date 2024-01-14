@@ -1,0 +1,67 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 120px;
+  /* background-color: #0a192e; */
+  /* background: linear-gradient(90deg, #0e1f3e 0%, rgba(25, 55, 109, 0) 100%); */
+  background: linear-gradient(360deg, #0c1a33 0%, #000 100%);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  padding: 50px 10%;
+  gap: 10px;
+}
+
+.text p {
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  list-style: none;
+  gap: 40px;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.link a {
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 200;
+  letter-spacing: 1.5px;
+  transition: 0.5s ease;
+}
+.link a:hover {
+  text-shadow: 0 0 10px #fff;
+}
+.icon {
+  width: 30px;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: row;
+    gap: 10px;
+  }
+
+  .link a:first {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .icon {
+    display: flex;
+  }
+}

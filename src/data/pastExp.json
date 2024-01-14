@@ -1,0 +1,40 @@
+[
+  {
+    "role": "Web Developer",
+    "organisation": "Bharat Intern",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["Building a weather app, using weather apis"],
+    "imageSrc": "pastExp/bharat_intern_logo.png"
+  },
+  {
+    "role": "C++ programming intern",
+    "organisation": "CodSoft",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["Building algorithms in C/C++"],
+    "imageSrc": "pastExp/codsoft_logo.png"
+  },
+  {
+    "role": "Summer Intern",
+    "organisation": "World Affairs Council of Harrisburg",
+    "startDate": "Jun, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": [
+      "Assisted in planning and executing council programs.",
+      "Conducted research on various topics for the council."
+    ],
+    "imageSrc": "pastExp/wach_logo.png"
+  },
+  {
+    "role": "Open Source Contributor",
+    "organisation": "Hacktoberfest | Social Winter Of Code(ongoing)",
+    "startDate": "Oct, 2023",
+    "endDate": "Nov, 2023",
+    "experiences": [
+      "Made 7 valid PRs to repos under GDSC, Illacloud and Major League Hacking.",
+      "Currently contributing to repos based on frontend dev at SWOC."
+    ],
+    "imageSrc": "pastExp/hacktoberfest_logo.png"
+  }
+]

@@ -18,7 +18,7 @@ export const Hero = () => {
           skills.
         </p>
         <a
-          href="https://drive.google.com/file/d/1893ApGE8Y9sFUykdy-SkEcP3dUyCmy9_/view?usp=sharing"
+          href="https://drive.google.com/file/d/1893Apw?usp=sharing"
           className={styles.cvLink}
         >
           View my CV

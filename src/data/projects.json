@@ -1,11 +1,11 @@
 [
   {
-    "title": "Bookmarker for YouTube Videos",
+    "title": "tube-tags",
     "imageSrc": "projects/project.png",
     "description": "A Chrome extension to bookmark the timestamps of your YouTube videos.",
     "skills": ["React", "Javascript", "Chrome Ectension API", "CSS"],
-    "demo": "https://github.com/mschandana16/bookmarker-for-yt",
-    "source": "https://github.com/mschandana16/bookmarker-for-yt"
+    "demo": "https://github.com/mschandana16/tube-tags",
+    "source": "https://github.com/mschandana16/tube-tags"
   },
   {
     "title": "Ethos - a MERN blog website",

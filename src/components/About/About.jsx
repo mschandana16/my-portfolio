@@ -21,7 +21,7 @@ export const About = () => {
               className={styles.icon}
             />
             <div className={styles.aboutItemText}>
-              <h3>Budding frontend Developer</h3>
+              <h3>Budding Frontend Developer</h3>
               <p>
                 I've always loved Art&Craft sessions at school and I now view
                 react apps as my canvas to create art with css. (Cringe intended
@@ -53,13 +53,13 @@ export const About = () => {
             />
             <div className={styles.aboutItemText}>
               <h3>
-                Cloud and Web Dev enthusiast | AIML novice | OpenSource lover
+                Cloud and Web Dev enthusiast | AIML novice | Open-Source lover
               </h3>
               <p>
                 I'm presently engaged in research related to edge computing at
-                my uni. Exploring the world of AI, by tackling little projects.
-                I'm also a huge fan of open source and have contributed to a few
-                repos.
+                my university. Exploring the world of AI, by tackling little
+                projects. I'm also a huge fan of open source and have
+                contributed to a few repos.
               </p>
             </div>
           </li>

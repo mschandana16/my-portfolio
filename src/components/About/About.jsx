@@ -53,7 +53,7 @@ export const About = () => {
             />
             <div className={styles.aboutItemText}>
               <h3>
-                Cloud and Web Dev enthusiast | AIML novice | Open-Source lover
+                Cloud and Web Dev enthusiast | AI-ML novice | Open-Source lover
               </h3>
               <p>
                 I'm presently engaged in research related to edge computing at

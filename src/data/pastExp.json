@@ -1,18 +1,20 @@
 [
   {
-    "role": "Web Developer",
+    "role": "Web Developer Intern",
     "organisation": "Bharat Intern",
     "startDate": "Jan, 2024",
     "endDate": "Present",
-    "experiences": ["Building a weather app, using weather apis"],
+    "experiences": ["Building a weather website and a Netflix UI clone."],
     "imageSrc": "pastExp/bharat_intern_logo.png"
   },
   {
-    "role": "C++ programming intern",
+    "role": "C++ Programming intern",
     "organisation": "Code Alpha",
     "startDate": "Jan, 2024",
     "endDate": "Present",
-    "experiences": ["Building algorithms in C/C++"],
+    "experiences": [
+      "Building an encryption-decryption tool based on Caesar Cipher algorithm, using C++"
+    ],
     "imageSrc": "pastExp/codealpha_logo.png"
   },
   {
@@ -21,7 +23,7 @@
     "startDate": "Jun, 2023",
     "endDate": "Aug, 2023",
     "experiences": [
-      "Assisted in planning and executing council programs.",
+      "Assisted in planning and executing the International Young Leaders Conference - 2023",
       "Conducted research on various topics for the council."
     ],
     "imageSrc": "pastExp/wach_logo.png"
@@ -33,7 +35,8 @@
     "endDate": "Nov, 2023",
     "experiences": [
       "Made 7 valid PRs to repos under GDSC, Illacloud and Major League Hacking.",
-      "Currently contributing to repos based on frontend dev at SWOC."
+      "Currently contributing to repos based on frontend development at SWOC.",
+      "Built an AI agent that translates English text into the Kannada language"
     ],
     "imageSrc": "pastExp/hacktoberfest_logo.png"
   }

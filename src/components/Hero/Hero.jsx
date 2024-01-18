@@ -18,10 +18,10 @@ export const Hero = () => {
           skills.
         </p>
         <a
-          href="https://drive.google.com/file/d/1893Apw?usp=sharing"
+          href="https://drive.google.com/file/d/1r1OVe4FgcCD1ni4xQPnXvH5mppkbepoX/view?usp=sharing"
           className={styles.cvLink}
         >
-          View my CV
+          View my Resume
         </a>
       </div>
       {/* <img

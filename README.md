@@ -1,6 +1,6 @@
 ### Welcome to my personal portfolio website!
 
-- [View it here!](https://chandanams.netlify.app/) 
+- [Visit it here!](https://chandanams.netlify.app/) 
 
 PS: 
 1. This repo is not open to contributions. However, suggestions regarding typos, errors or suggestions for improvement are always welcome. 

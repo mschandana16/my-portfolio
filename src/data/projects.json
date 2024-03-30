@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Resurge App",
+    "imageSrc": "projects/project.png",
+    "description": "A revolutionary platform designed to offer human trafficking survivors a path to empowerment. (Work in progress)",
+    "skills": ["Flutter", "Firebase"],
+    "demo": "https://github.com/mschandana16/GSolns-Resurge",
+    "source": "https://github.com/mschandana16/GSolns-Resurge"
+  },
+  {
+    "title": "Collaborative Whiteboard",
+    "imageSrc": "projects/project.png",
+    "description": "A Google Docs clone, but for art.",
+    "skills": ["Python3", "Socket programming"],
+    "demo": "https://github.com/mschandana16/collaborative-whiteboard-CN",
+    "source": "https://github.com/mschandana16/collaborative-whiteboard-CN"
+  },
+  {
     "title": "tube-tags",
     "imageSrc": "projects/project.png",
     "description": "A Chrome extension to bookmark the timestamps of your YouTube videos.",
@@ -32,7 +48,7 @@
     "source": "https://github.com/mschandana16/spell-checker-dsa"
   },
   {
-    "title": "Text-based adventure game",
+    "title": "Text-based Adventure Game",
     "imageSrc": "projects/project.png",
     "description": "A game built in python which simulates an escape room adventure.",
     "skills": ["Python", "Tkinter library"],
@@ -40,7 +56,7 @@
     "source": "https://github.com/mschandana16/python-project"
   },
   {
-    "title": "My portfolio website",
+    "title": "My Portfolio Website",
     "imageSrc": "projects/project.png",
     "description": "This very website!",
     "skills": ["React", "Vite", "CSS", "Animations library"],
@@ -48,7 +64,7 @@
     "source": "https://github.com/mschandana16/my-portfolio"
   },
   {
-    "title": "English to Kannada translator",
+    "title": "English to Kannada Translator",
     "imageSrc": "projects/project.png",
     "description": "An AI agent that takes English text and translates it to the Kannada language. Built using illa.ai ",
     "skills": ["React", "Vite", "CSS", "Animations library"],

@@ -11,7 +11,7 @@
     "role": "Web Developer Intern",
     "organisation": "Bharat Intern",
     "startDate": "Jan, 2024",
-    "endDate": "Present",
+    "endDate": "Feb, 2024",
     "experiences": ["Building a weather website and a Netflix UI clone."],
     "imageSrc": "pastExp/bharat_intern_logo.png"
   },
@@ -19,7 +19,7 @@
     "role": "C++ Programming intern",
     "organisation": "Code Alpha",
     "startDate": "Jan, 2024",
-    "endDate": "Present",
+    "endDate": "Feb, 2024",
     "experiences": [
       "Building an encryption-decryption tool based on Caesar Cipher algorithm, using C++"
     ],

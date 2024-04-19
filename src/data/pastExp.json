@@ -7,14 +7,6 @@
     "experiences": ["Empowering Lives, Transforming Futures: The Resurge App"],
     "imageSrc": "pastExp/resurge_logo.jpg"
   },
-  /*  {
-    "role": "Web Developer Intern",
-    "organisation": "Bharat Intern",
-    "startDate": "Jan, 2024",
-    "endDate": "Feb, 2024",
-    "experiences": ["Building a weather website and a Netflix UI clone."],
-    "imageSrc": "pastExp/bharat_intern_logo.png"
-  }, */
   {
     "role": "C++ Programming intern",
     "organisation": "Code Alpha",

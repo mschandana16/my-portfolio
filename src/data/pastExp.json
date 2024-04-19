@@ -4,7 +4,7 @@
     "organisation": "Resurge",
     "startDate": "Jan, 2024",
     "endDate": "Present",
-    "experiences": ["Empowering Lives, Transforming Futures: The Resurge App"],
+    "experiences": ["Empowering Lives, Transforming Futures: The Resurge App."],
     "imageSrc": "pastExp/resurge_logo.jpg"
   },
   {
@@ -13,7 +13,7 @@
     "startDate": "Jan, 2024",
     "endDate": "Feb, 2024",
     "experiences": [
-      "Built an encryption-decryption tool based on Caesar Cipher algorithm, using C++"
+      "Built an encryption-decryption tool based on Caesar Cipher algorithm, using C++."
     ],
     "imageSrc": "pastExp/codealpha_logo.png"
   },
@@ -30,13 +30,12 @@
   },
   {
     "role": "Open Source Contributor",
-    "organisation": "Hacktoberfest | Social Winter Of Code(ongoing)",
+    "organisation": "Hacktoberfest | Social Winter Of Code",
     "startDate": "Oct, 2023; Dec 2023",
     "endDate": "Feb, 2024",
     "experiences": [
       "Made 7 valid PRs to repos under GDSC, Illacloud and Major League Hacking.",
-      "Currently contributing to repos based on frontend development at SWOC.",
-      "Built an AI agent that translates English text into the Kannada language"
+      "Built an AI agent that translates English text into the Kannada language."
     ],
     "imageSrc": "pastExp/hacktoberfest_logo.png"
   }

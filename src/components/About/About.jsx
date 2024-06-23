@@ -24,8 +24,7 @@ export const About = () => {
               <h3>Budding Frontend Developer</h3>
               <p>
                 I've always loved Art&Craft sessions at school and I now view
-                React apps as my canvas to create art with CSS. (Cringe intended
-                ;) ){" "}
+                React apps as my canvas. (Cringe intended ;) ){" "}
               </p>
             </div>
           </li>
@@ -38,9 +37,9 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Programmer</h3>
               <p>
-                C++ is love! Nevertheless, I code in C/C++,
-                Python and Javascript. Currently dabbling in Go. Last time I
-                used Java was 4 years ago :|
+                C++ is love! Nevertheless, I code in C/C++, Python and
+                Javascript. Currently dabbling in Go. Last time I used Java was
+                4 years ago :|
               </p>
             </div>
           </li>

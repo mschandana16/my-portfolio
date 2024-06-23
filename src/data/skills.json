@@ -19,11 +19,6 @@
     "title": "Python",
     "imageSrc": "skills/python.png"
   },
-  /*  {
-    "title": "Go",
-    "imageSrc": "skills/go.png"
-  }, */
-
   {
     "title": "Astro",
     "imageSrc": "skills/astro.png"
@@ -47,22 +42,10 @@
   },
 
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "OpenCV",
-    "imageSrc": "skills/opencvimg.png"
-  },
-
-  {
     "title": "Docker",
     "imageSrc": "skills/docker.png"
   },
-  {
-    "title": "Illa cloud",
-    "imageSrc": "skills/illa.png"
-  },
+
   {
     "title": "GIT/Github",
     "imageSrc": "skills/github.png"

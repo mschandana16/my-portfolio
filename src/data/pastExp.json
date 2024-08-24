@@ -1,5 +1,26 @@
 [
   {
+    "role": "AI Intern",
+    "organisation": "CognitiveLab",
+    "startDate": "Aug, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Formatting scripts based on RAG and finetuning into beginner-friendly blogs and articles.",
+      "Testing and expirementing scripts to keep them error free."
+    ],
+    "imageSrc": "pastExp/cognitiveLab_logo.png"
+  },
+  {
+    "role": "Developer Intern",
+    "organisation": "Phyken Network",
+    "startDate": "Jul, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Building the investor portal for a green energy RWA protocol to increase platform engagement."
+    ],
+    "imageSrc": "pastExp/phyken_logo.png"
+  },
+  {
     "role": "Co-founder",
     "organisation": "Resurge",
     "startDate": "Jan, 2024",

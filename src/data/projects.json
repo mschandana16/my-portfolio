@@ -1,5 +1,13 @@
 [
   {
+    "title": "NFT minter - Mintory",
+    "imageSrc": "projects/project.png",
+    "description": "UI for a nft-minting website ",
+    "skills": ["Next.js", "Typescript", "Javascript"],
+    "demo": "https://github.com/mschandana16/nft-minter-site",
+    "source": "https://github.com/mschandana16/nft-minter-site"
+  },
+  {
     "title": "The Resurge App",
     "imageSrc": "projects/project.png",
     "description": "A revolutionary platform designed to offer human trafficking survivors a path to empowerment. (Work in progress)",

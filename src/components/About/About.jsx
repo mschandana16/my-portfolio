@@ -38,8 +38,7 @@ export const About = () => {
               <h3>Programmer</h3>
               <p>
                 C++ is love! Nevertheless, I code in C/C++, Python and
-                Javascript. Currently dabbling in Go. Last time I used Java was
-                4 years ago :|
+                Javascript. Dabbling with java at work cuurently!
               </p>
             </div>
           </li>
@@ -51,14 +50,10 @@ export const About = () => {
               className={styles.icon}
             />
             <div className={styles.aboutItemText}>
-              <h3>
-                Cloud and Web Dev enthusiast | AI-ML novice | Open-Source lover
-              </h3>
+              <h3>Web Dev enthusiast | AI-ML novice | Open-Source lover</h3>
               <p>
-                I'm presently engaged in research related to edge computing at
-                my university. Exploring the world of AI, by tackling little
-                projects. I'm also a huge fan of open source and have
-                contributed to a few repos.
+                Exploring the world of AI, by tackling little projects. I'm also
+                a huge fan of open source and have contributed to a few repos.
               </p>
             </div>
           </li>

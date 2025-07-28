@@ -1,12 +1,22 @@
 [
   {
+    "role": "Project Intern",
+    "organisation": "Oracle(OFSS)",
+    "startDate": "Aug, 2024",
+    "endDate": "Sept, 2024",
+    "experiences": [
+      "Interning at Oracle Financial Services Software Limited under the Retail Banking team."
+    ],
+    "imageSrc": "pastExp/oracle_logo.png"
+  },
+  {
     "role": "AI Intern",
     "organisation": "CognitiveLab",
     "startDate": "Aug, 2024",
-    "endDate": "Present",
+    "endDate": "Sept, 2024",
     "experiences": [
-      "Formatting scripts based on RAG and finetuning into beginner-friendly blogs and articles.",
-      "Testing and expirementing scripts to keep them error free."
+      "Formatted scripts based on RAG and finetuning into beginner-friendly blogs and articles.",
+      "Tested and experimented with scripts to keep them error free."
     ],
     "imageSrc": "pastExp/cognitiveLab_logo.png"
   },
@@ -14,9 +24,9 @@
     "role": "Developer Intern",
     "organisation": "Phyken Network",
     "startDate": "Jul, 2024",
-    "endDate": "Present",
+    "endDate": "Aug, 2024",
     "experiences": [
-      "Building the investor portal for a green energy RWA protocol to increase platform engagement."
+      "Built the investor portal for a green energy RWA protocol to increase platform engagement."
     ],
     "imageSrc": "pastExp/phyken_logo.png"
   },

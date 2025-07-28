@@ -1,5 +1,13 @@
 [
   {
+    "title": "Distributed Systems Cluster Simulation Framework ",
+    "imageSrc": "projects/project.png",
+    "description": "A lightweight, Docker-simulated Kubernetes-inspired cluster management system with Flask-based API for node orchestration, pod scheduling, and fault-tolerant rescheduling.",
+    "skills": ["Python3", "Docker", "Flask", "Postman"],
+    "demo": "https://github.com/mschandana16/314_315_363_368_Distributed_Systems_Cluster_Simulation_Framework",
+    "source": "https://github.com/mschandana16/314_315_363_368_Distributed_Systems_Cluster_Simulation_Framework"
+  },
+  {
     "title": "NFT minter - Mintory",
     "imageSrc": "projects/project.png",
     "description": "UI for a nft-minting website ",
